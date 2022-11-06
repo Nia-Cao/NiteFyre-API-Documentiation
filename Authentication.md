@@ -1,2 +1,3 @@
 # Authentication
-k
+
+This document outlines the NiteFyre API authentication endpoints.
