@@ -56,7 +56,8 @@ Example:
 ```
 {
   "email": "email",
-  "password": "password"
+  "password": "password",
+  "username": "username"
 }
 ```
 The new user endpoint is currently very simple for testing, and performs little user validation. If registration is sucessful, a 'user object' will be returned.
